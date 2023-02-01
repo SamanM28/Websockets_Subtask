@@ -28,6 +28,17 @@ The results of the analysis of different block sizes showed that the total time 
 
 The feature of a graceful disconnection of a client from the server was successfully implemented and tested. The client was able to request to disconnect from the server and the server closed the connection to the client.
 
+Implementation - 
+To complete the task of creating a client and server in Python, the following steps were taken:
+
+Installed the necessary libraries such as faker, numpy, and asyncio if not already installed.
+Created a server script that generates data using faker or numpy and sends it to the clients one message at a time. The server also logs messages received from clients.
+Created a client script that connects to the server and collects data in blocks of a specified size (e.g., 5 messages). The client logs the blocks received in a text file or console, along with the timestamps of each message in the block.
+Added the feature of handling multiple concurrent connections in the server. To achieve this, the server script was modified to send messages to all connected clients instead of just one. The server maintains a list of connected clients and iterates through it to send messages.
+Implemented error handling in the client script to re-establish the connection with the server in case the server stops or there is a connection error. The client continuously tries to reconnect until a successful connection is established.
+(Optional) Analyzed the difference in the time taken for different block sizes and higher numbers of clients connected to the server.
+(Optional) Added the feature of allowing the client to specify the kind of data to be received from the server, such as random user information data or random arrays.
+(Optional) Added the feature of allowing a graceful disconnection of a client from the server, such as removing the client from the list of connected clients in the server.
 
 b) Steps I had taken to finish the task -
 1. First I ran all the codes from the shared repository and checked how it functions.
@@ -39,5 +50,9 @@ b) Steps I had taken to finish the task -
 7. I have sent a few files that were made taking care of all the pointers.
 
 Regarding the first question of bonus points - Each client makes blocks or different files and the timing of each changes according to requirement. If the message takes 2 seconds to be sent and block is created after 5 messages then the command to create the block is given at the 8th second when the 5th message is received.
+
+c) Instructions-
+For checking the pointers - Run stt3.py and then ctt4.py, ctt11.py, ctt22.py, ctt33.py, ctt44.py and all the pointers work.
+To run the main files, first run the server python file, and then run the client python file. In the case of having multiple clients, open concurrent terminal sessions and run the client programs.
 
 d) Description of the modules - To develop this program, the "websocket" and "asyncio" libraries were used. As the name suggests, the websocket library helped develop the websocket server and client programs, and handle tasks like connecting, sending and receiving data, etc. The asyncio library was used to handle asynchronous tasks.

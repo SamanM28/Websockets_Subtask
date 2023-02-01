@@ -58,5 +58,4 @@ To run the main files, first run the server python file, and then run the client
 d) Description of the modules - To develop this program, the "websocket" and "asyncio" libraries were used. As the name suggests, the websocket library helped develop the websocket server and client programs, and handle tasks like connecting, sending and receiving data, etc. The asyncio library was used to handle asynchronous tasks.
 
 e)Screenshots - ![Screenshot_20230201_233633](https://user-images.githubusercontent.com/75972994/216130029-23b3f60d-fa42-461c-8c47-c66738387dcc.png)
-
-
+- ![Screenshot_20230201_233725](https://user-images.githubusercontent.com/75972994/216130570-a12f2c11-f2e8-4d99-b602-52e43ea07f52.png)

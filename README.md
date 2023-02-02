@@ -26,7 +26,6 @@ Results
 
 The results of the analysis of different block sizes showed that the total time taken to receive the data decreased as the block size increased. This was expected as the total time taken to receive the data is proportional to the number of messages that have to be transmitted and the overhead of transmitting each message.
 
-The feature of a graceful disconnection of a client from the server was successfully implemented and tested. The client was able to request to disconnect from the server and the server closed the connection to the client.
 
 Implementation - 
 To complete the task of creating a client and server in Python, the following steps were taken:

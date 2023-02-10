@@ -58,3 +58,6 @@ d) Description of the modules - To develop this program, the "websocket" and "as
 
 e)Screenshots - I couldn't submit the screenshots on time as it kept giving me an error while trying to upload them. I only just restarted and tried and was able to link the screenshots in the main file itself. I apologize for the disorganised manner in which in have made this repository. I am quite new when it comes to creating repositories and wasn't able to figure out things in time. 
 Thank you.
+
+HAEDWARE SUBTASK
+This is the submission of the hardware subtask

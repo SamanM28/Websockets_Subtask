@@ -60,4 +60,20 @@ e)Screenshots - I couldn't submit the screenshots on time as it kept giving me a
 Thank you.
 
 HAEDWARE SUBTASK
-This is the submission of the hardware subtask
+This is the submission of the hardware subtask. We could somewhat complete the first 2 milestones.
+
+circuit diagram -
+![f1e83ea8-0e2e-4642-8f58-e97d2b2d4fe9](https://user-images.githubusercontent.com/75972994/218158424-a246d8e9-7e75-4157-a2f5-ec53472205c9.png)
+![NodeMCU GPIOs](https://user-images.githubusercontent.com/75972994/218158497-3c672981-19a4-4ae9-a866-9de758afdd37.png)
+
+
+picture of the bread board -
+![WhatsApp Image 2023-02-10 at 23 08 09](https://user-images.githubusercontent.com/75972994/218159022-543030ef-da85-47a3-8184-86c5d021dccf.jpg)
+
+Video Link - https://drive.google.com/drive/folders/1rgswAtozLoc3ZL9QPceh1eV6TpHtArn1?usp=sharing
+
+Screenshot -
+![WhatsApp Image 2023-02-10 at 23 08 09](https://user-images.githubusercontent.com/75972994/218159627-58180d85-ec05-43c0-81e2-13d941ccc606.jpg)
+
+Codes - 
+

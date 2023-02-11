@@ -81,6 +81,8 @@ continuity_checker.ino
 
 FINAL EMBEDATHON TASK -
 Milestone 1 - video link - https://drive.google.com/drive/folders/1IJ1NxZtfI1UXiRBbpzAtPFC4FpAX-u5D?usp=sharing
+Screenshot of video details and time - ![WhatsApp Image 2023-02-11 at 13 42 21](https://user-images.githubusercontent.com/75972994/218247925-f078a1c2-47c9-4b08-9ae5-f39ee51d99d6.jpg)
+
 Arduino code - m1.ino
 serial monitor output text (as in video) - [gyro_data.txt](https://github.com/SamanM28/Websockets_Subtask/files/10712918/gyro_data.txt)
 

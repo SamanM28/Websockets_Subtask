@@ -80,6 +80,8 @@ continuity_checker.ino
 001.ino
 
 FINAL EMBEDATHON TASK -
+All files are either here or found in the main file with the names mentioned here.
+
 Milestone 1 - video link - https://drive.google.com/drive/folders/1IJ1NxZtfI1UXiRBbpzAtPFC4FpAX-u5D?usp=sharing
 Screenshot of video details and time - ![WhatsApp Image 2023-02-11 at 13 42 21](https://user-images.githubusercontent.com/75972994/218247925-f078a1c2-47c9-4b08-9ae5-f39ee51d99d6.jpg)
 
@@ -90,4 +92,10 @@ Milestone 2 -
 Arduino code - m2.ino
 Python code - final2.py
 Output screenshot - ![WhatsApp Image 2023-02-11 at 13 27 22](https://user-images.githubusercontent.com/75972994/218247720-971e6b80-989a-4cd5-949f-44cdaa07c39d.jpg)
+
+Milestone 3 - 
+Video - https://drive.google.com/drive/folders/1pChk38zq8kK2uhZhIihqd05kGWu4RMXy?usp=sharing
+Arduino code - m3.ino
+output text data - newgyrocord.txt
+Screenshot - ![Screenshot_18](https://user-images.githubusercontent.com/75972994/218248832-46c5c6e7-cde8-4b76-ab43-8f6e1fc47d8e.png)
 

@@ -101,3 +101,8 @@ Screenshot - ![Screenshot_18](https://user-images.githubusercontent.com/75972994
 
 Milestone 4 - 
 Arduino code - m4.ino
+Video of the pc receiving the data - https://drive.google.com/drive/folders/19zv9-aVwFf2Z1kshsmCZlue5hWYKsvim?usp=sharing
+Picture of the voltage divider circuit - ![Voltage divider circuit](https://user-images.githubusercontent.com/75972994/218292618-53884490-528a-4911-81d7-586a4127429e.jpg)
+Potential pc code (python) - m4ish.py
+
+We couldn't implement it because of not figuring out the pc code. On paper, the code is supposed to be uploaded onto the nodemcu and then unplugged from the source laptop. Then voltage from 9v battery must be reduced to the working voltage of the nodemcu and then the previous code will resume again. The pc connected to the nodemcu's hotspot will receive the data. The python code should take the mpu6050 data and cause keyboard inputs and cause movement in the game that is open.
